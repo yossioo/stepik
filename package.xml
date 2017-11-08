@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>stepik-ros</name>
+  <name>stepik</name>
   <version>0.0.0</version>
-  <description>The stepik-ros package</description>
+  <description>The stepik ros package</description>
 
   <maintainer email="yossiovcharik@gmail.com">yossi</maintainer>
 
