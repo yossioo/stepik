@@ -11,6 +11,13 @@
 
 
   <buildtool_depend>catkin</buildtool_depend>
+   <exec_depend>roscpp</exec_depend>
+   <exec_depend>geometry_msgs</exec_depend>
+   <exec_depend>visualization_msgs</exec_depend>
+  <buildtool_depend>roscpp</buildtool_depend>
+  <buildtool_depend>geometry_msgs</buildtool_depend>
+  <buildtool_depend>visualization_msgs</buildtool_depend>
+
 
 
   <!-- The export tag contains other, unspecified, tags -->

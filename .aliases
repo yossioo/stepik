@@ -1,0 +1,3 @@
+alias l='ls -l'
+alias camk='cd ~/workspace && catkin_make'
+export EDITOR='nano -w'
