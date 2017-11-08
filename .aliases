@@ -1,3 +1,5 @@
 alias l='ls -l'
-alias camk='cd ~/workspace && catkin_make'
+alias camk='cd ~/workspace && catkin_make && source ~/workspace/devel/setup.bash'
+alias sws='source ~/workspace/devel/setup.bash'
 export EDITOR='nano -w'
+alias clean_ws='cd ~/workspace && rm -rf build && rm -rf devel'
